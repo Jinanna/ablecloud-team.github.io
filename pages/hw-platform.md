@@ -7,7 +7,7 @@ teaser: "<br/>ABLESTACK은 소프트웨어 HCI 플랫폼으로, 고객사에 성
 highlight-section:
    title: "ABLESTACK 어플라이언스"
    governing: "ABLESTACK 어플라이언스는 하드웨어 플랫폼에 소프트웨어가 설치된 상태로 출고되는 턴키 어플라이언스 모델로<br/> 국산 서버 제조사와의 협력을 통해 우수한 클라우드 환경을 제공합니다."
-   image_section: "mission_1.jpg"
+   image_section: "hw-image.png"
    section_content: "ABLECLOUD는 국내 최고의 서버 제조업체인 유니와이드와 손잡고, ABLESTACK 어플라이언스를 통해 SDDC 구축, 프라이빗, 멀티 클라우드 환경을 구축하고 지원할 수 있는 국내 최고의 클라우드 구축 옵션을 제공합니다.<br><br>ABLESTACK 어플라이언스를 기반으로 엔터프라이즈 클라우드를 빠르게 구성하십시오."
    section_more_text: "제품 스펙 시트 보러가기 &gt"
    section_more_url: "#"
@@ -37,9 +37,9 @@ permalink: "/hw-platform/"
       </p>
    </div>
    <div class="small-6 columns">
-      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;">ABLESTACK Lenovo 어플라이언스</a>
-      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;">ABLESTACK Fujitsu 어플라이언스</a>
-      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;">ABLESTACK Supermicro 어플라이언스</a>
-      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;">ABLESTACK DellEMC 어플라이언스</a>
+      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;"><image src="/images/hw-logo-lenovo">ABLESTACK Lenovo 어플라이언스</a>
+      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;"><image src="/images/hw-logo-lenovo">ABLESTACK Fujitsu 어플라이언스</a>
+      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;"><image src="/images/hw-logo-lenovo">ABLESTACK Supermicro 어플라이언스</a>
+      <a href="#" class="button expand radius" style="background-color: white; color: black; border-width: 1px; border-style: solid; border-color: lightgrey;"><image src="/images/hw-logo-lenovo">ABLESTACK DellEMC 어플라이언스</a>
    </div>
 </div>
